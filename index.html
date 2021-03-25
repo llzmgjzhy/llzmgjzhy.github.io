@@ -3,7 +3,6 @@ layout: default
 home-title: stay hungry stay foolish
 description: 既然已经到这 了解一下吧
 ---
-postPatterns: 'food'
 {% include header.html %}
 
 <div
@@ -12,7 +11,7 @@ postPatterns: 'food'
     style="{% if page.header-img %}background: url({{ page.header-img | relative_url }}) no-repeat center center; background-size: cover;background-postPatterns:'food';{% endif %}"
 >
     <h2>{{ page.home-title }}</h2>
-    <h3>{{ page.description }}</h3>
+    <h2>{{ page.description }}</h2>
 </div>
 
 <main class="g-container home-content">
