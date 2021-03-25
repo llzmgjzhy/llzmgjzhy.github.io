@@ -8,9 +8,9 @@ description: 既然已经到这 了解一下吧
 <div
     class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}"
     data-theme="{{ site.theme-color }}"
-    style="{% if page.header-img %}background: url({{ page.header-img | relative_url }}) no-repeat center center; background-size: cover;background-postPatterns:'food';{% endif %}"
+    style="{% if page.header-img %}background: url({{ page.header-img | relative_url }}) no-repeat center center; background-size: cover;{% endif %}"
 >
-    <h2>{{ page.home-title }}</h2>
+    <h1>{{ page.home-title }}</h1>
     <h2>{{ page.description }}</h2>
 </div>
 
