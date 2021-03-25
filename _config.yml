@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '旭北阳的博客'
 description: ''
-keyword: '旭北阳, 旭北阳的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs'
+keyword: '旭北阳, 旭北阳的博客, 前端开发, 生活记录, 前端博客, javascript, vuejs, nodejs'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -21,13 +21,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
 author: '老橙'
 nickname: '旭北阳'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/xks.jpg'
+bio: '前端开发，生活记录，些许感悟'
+avatar: '/assets/img/xks1.jpg'
 
 # Search
 search: true
@@ -59,7 +59,7 @@ sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/llzmgjzhy'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
