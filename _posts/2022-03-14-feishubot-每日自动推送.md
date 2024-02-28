@@ -2,10 +2,11 @@
 layout: single
 author_profile: true
 read_time: true
+title: 飞书群聊机器人每日自动推送语录及风景照片python版
 share: true
 ---
 
-# 飞书群聊机器人每日自动推送语录及风景照片python版
+> 飞书群聊机器人每日自动推送语录及风景照片python版
 
 ## 使用场景
 
