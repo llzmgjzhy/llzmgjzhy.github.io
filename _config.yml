@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "LLZMGJZHY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "I am an undergraduate student majoring in computer science. I am interested in computer graphics, computer vision, and machine learning. "
   location         : "Tianjin, China"
-  email            : "guangzewei66@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "guangzewei66@gmail.com"
+      # url: "guangzewei66@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
